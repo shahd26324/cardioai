@@ -1,0 +1,6 @@
+{
+  "name": "Pulseboard Cardiac AI - Real-Time Risk & Explainability",
+  "description": "Real-time cardiac disease risk prediction dashboard powered by Kafka streaming, UCI Cleveland Random Forest model, and individual patient SHAP and LIME explainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
